@@ -1,1 +1,1 @@
-# SQL-Study-meterial
+# SQL-Study-material
